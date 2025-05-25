@@ -1,6 +1,6 @@
 # Business Analyst Job Market Analysis - Calgary (May 2025)
 
-![Dashboard Preview](https://github.com/GYahia/Power-BI/Dashboard_Screenshot.png)
+![Dashboard Preview](https://github.com/GYahia/Power-BI/blob/Dashboard_Screenshot.png)
 
 This project analyzes **54 business analyst job postings** in Calgary (May 2025) to identify industry demand, skill requirements, and qualifications. Data was manually extracted from job boards and visualized in Power BI.
 
