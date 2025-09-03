@@ -64,9 +64,6 @@ This project analyzes **54 business analyst job postings** in Calgary (May 2025)
 - Filters by industry, experience, and skills.
 - Dynamic visuals showing demand trends.
 
-**Access the Dashboard**:
-- [Publish to Web Link](#) (if public)
-- [Download .pbix File](#) (GitHub)
 
 ## ⚙️ How to Reproduce
 
